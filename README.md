@@ -37,3 +37,20 @@ uv sync
 ```
 3) Follow the instruction in [convert-data.ipynb](data-wrangling/convert-data.ipynb) to download and convert the raw counts and annotation data from Wang et al.
 4) Have fun!
+
+## Contributors
+- Data Location and Conversion
+  - Molly
+  - Harry
+  - Erin
+  - Mike
+- Python Reimplementations
+  - Mike
+  - Harry
+- Figure Generation
+  - Molly
+  - Erin
+  - Harry
+- Spatial NMF
+  - Rajdeep
+  - Yijia
