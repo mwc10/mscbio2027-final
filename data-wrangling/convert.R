@@ -108,6 +108,12 @@ readRDS(paste0(data_path, "/Clinical/Clinical.RDS")) |>
   select(-c(annotations, RFS, iBCFS, iDFS, DRFS, OS)) |>
   write_csv(here('data/clinical-info.csv'))
 
+## clinical annotation ids to map to spots 
+paste0(data_path, "/Clinical/ids.RDS") |>
+  readRDS() |>
+  as_tibble(rownames = 'name') |>
+  write_csv(here('data/clinical-ids.csv'))
+
 
 ### Deal with Counts and Spot Annotation
 COUNT_PATH <- "/Robjects/counts/"
