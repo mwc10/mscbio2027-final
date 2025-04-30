@@ -16,9 +16,9 @@ from scipy.ndimage import gaussian_filter
 from PIL import Image
 
 
-expr_path   = "/home/rajdeepp/Desktop/bioimage_proj/TNBC1_tumor_expr.csv"    # spots × genes
-coords_path = "/home/rajdeepp/Desktop/bioimage_proj/TNBC1_tumor_coords.csv"  # pixel_x, pixel_y
-he_path     = "/home/rajdeepp/Desktop/bioimage_proj/Images/imagesLarge/TNBC1_CN1_C1.jpg"  # H&E image
+expr_path   = "./TNBC1_tumor_expr.csv"    # spots × genes
+coords_path = "./TNBC1_tumor_coords.csv"  # pixel_x, pixel_y
+he_path     = "./TNBC1_CN1_C1.jpg"  # H&E image
 
 
 expr   = pd.read_csv(expr_path, index_col=0)
