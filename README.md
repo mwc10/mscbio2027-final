@@ -30,7 +30,7 @@ The extension of their data to other spatial transcriptomic methods.
 
 ## How to Run 
 
-1) Install (`uv`)[https://docs.astral.sh/uv/]
+1) Install [`uv`](https://docs.astral.sh/uv/)
 2) Use `uv` to install dependencies and create the virtual environment `.venv`:
 ```bash
 uv sync
