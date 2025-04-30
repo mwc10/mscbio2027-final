@@ -26,7 +26,7 @@ A re-implementation of the NB deconvolutional model used to generate tumor and s
 Code and data necessary to recreate figures 4 and 5.
 
 ### [Spatial NMF](spatial-nmf)
-The extension of their data to other spatial transcriptomic methods.
+The extension of their data to other spatial transcriptomic methods and a [report documenting our findings](spatial-nmf/spatialnmf_report.pdf).
 
 ## How to Run 
 
