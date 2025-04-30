@@ -13,19 +13,19 @@ This repository holds the code from our group!
 
 Each of the folders has code and results for different aspects of the project. All code should be able to run from a cloned repository, but we are dealing with Python here.  
 
-### Data Wrangling
+### [Data Wrangling](data-wrangling/)
 These scripts download and process the raw counts and annotation data from the paper. They convert from the R data into `AnnData` files.
 
-### Regression
+### [Regression](regression/)
 This is the morphological regressor used to estimate the annotation of all ST spots.
 
-### Deconv
+### [Deconvolution](deconv/)
 A re-implementation of the NB deconvolutional model used to generate tumor and stroma pseudobulks.
 
-### Figures
+### [Figures](figures/)
 Code and data necessary to recreate figures 4 and 5.
 
-### Spatial NMF
+### [Spatial NMF](spatial-nmf)
 The extension of their data to other spatial transcriptomic methods.
 
 ## How to Run 
@@ -35,5 +35,5 @@ The extension of their data to other spatial transcriptomic methods.
 ```bash
 uv sync
 ```
-3) Follow the instruction in convert-data.ipynb to download and convert the raw counts and annotation data from Wang et al.
+3) Follow the instruction in [convert-data.ipynb](data-wrangling/convert-data.ipynb) to download and convert the raw counts and annotation data from Wang et al.
 4) Have fun!
