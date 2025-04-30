@@ -1,5 +1,5 @@
 # downloaded journal data and reformatted andata files
 # create by data-wrangling scripts
-data/*
+data/
 
 .venv/
