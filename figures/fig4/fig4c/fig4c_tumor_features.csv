@@ -1,0 +1,29 @@
+Feature,Function,Type
+DNA repair,Stress response,Signature
+BRCA1,Stress response,Single gene
+BRCA2,Stress response,Single gene
+CHEK2,Stress response,Single gene
+PALB2,Stress response,Single gene
+Epithelial mesenchymal transition,Pathway,Signature
+PI3K AKT mTOR signaling,Pathway,Signature
+WNT beta catenin signaling,Pathway,Signature
+Estrogen response late,Pathway,Signature
+Androgen response,Pathway,Signature
+mTORC1 signaling,Pathway,Signature
+ESR1,Pathway,Single gene
+AR,Pathway,Single gene
+NTRK2,Pathway,Single gene
+PDGFRA,Pathway,Single gene
+AKT1,Pathway,Single gene
+DNMT1,Pathway,Single gene
+Glycolysis,Metabolism,Signature
+Fatty acid metabolism,Metabolism,Signature
+Oxidative phosphorylation,Metabolism,Signature
+MYC targets v2,Proliferation,Signature
+GGI,Proliferation,Signature
+G2M checkpoint,Proliferation,Signature
+Mitotic spindle,Proliferation,Signature
+MYC,Proliferation,Single gene
+CCNE1,Proliferation,Single gene
+CDKN2A,Proliferation,Single gene
+PLK4,Proliferation,Single gene

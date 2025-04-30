@@ -1,0 +1,36 @@
+Feature,Function,Type
+TLS Lundeberg,Immune,Signature
+Interferon gamma response,Immune,Signature
+Interferon alpha response,Immune,Signature
+CD73,Immune,Single gene
+PD-L1,Immune,Single gene
+PD1,Immune,Single gene
+CTLA4,Immune,Single gene
+LAG3,Immune,Single gene
+B7-H3,Immune,Single gene
+IDO1,Immune,Single gene
+ICOS,Immune,Single gene
+CXCL12,Immune,Single gene
+CCL5,Immune,Single gene
+Macrophages,Immune,xCell enrichment type
+Neutrophils,Immune,xCell enrichment type
+Tregs,Immune,xCell enrichment type
+CD8+ T-cells,Immune,xCell enrichment type
+Plasma cells,Immune,xCell enrichment type
+Memory B-cells,Immune,xCell enrichment type
+Trm,Immune,xCell enrichment type
+TAM,Immune,xCell enrichment type
+Hypoxia,Stress response,Signature
+Apoptosis,Stress response,Signature
+Angiogenesis,Stroma,Signature
+Adipogenesis,Stroma,Signature
+VEGFA,Stroma,Single gene
+VEGFB,Stroma,Single gene
+CAF,Stroma,xCell enrichment type
+IFNγ-iCAF,Stroma,xCell enrichment type
+Smooth muscle,Stroma,xCell enrichment type
+Neurons,Stroma,xCell enrichment type
+TGF beta signaling,Pathway,Signature
+WNT beta catenin signaling,Pathway,Signature
+Hedgehog signaling,Pathway,Signature
+PDGFRA,Pathway,Single gene
